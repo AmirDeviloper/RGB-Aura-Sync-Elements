@@ -1,0 +1,16 @@
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\bin\Debug\WPFTest.exe
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\bin\Debug\RGBAura.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\bin\Debug\WPFTest.exe.config
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\bin\Debug\WPFTest.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\bin\Debug\RGBAura.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\MainWindow.g.cs
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\App.g.cs
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest_MarkupCompile.cache
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest_MarkupCompile.lref
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\MainWindow.baml
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.g.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.Properties.Resources.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.csproj.GenerateResource.Cache
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.exe
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\WPFTest\obj\Debug\WPFTest.pdb

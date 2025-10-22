@@ -1,0 +1,5 @@
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\RGBAura\bin\Debug\RGBAura.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\RGBAura\bin\Debug\RGBAura.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\RGBAura\obj\Debug\RGBAura.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\RGBAura\obj\Debug\RGBAura.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\RGBAura_wpf\RGBAura\obj\Debug\RGBAuraWPF.csprojResolveAssemblyReference.cache

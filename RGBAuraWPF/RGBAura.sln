@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBAuraWPF", "RGBAura\RGBAuraWPF.csproj", "{636ED8FC-C6FB-46EA-89A1-332A7B62D7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest", "WPFTest\WPFTest.csproj", "{CB6F596E-5D8D-4900-A41F-9B317DCD1F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636ED8FC-C6FB-46EA-89A1-332A7B62D7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636ED8FC-C6FB-46EA-89A1-332A7B62D7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636ED8FC-C6FB-46EA-89A1-332A7B62D7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636ED8FC-C6FB-46EA-89A1-332A7B62D7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6F596E-5D8D-4900-A41F-9B317DCD1F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6F596E-5D8D-4900-A41F-9B317DCD1F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6F596E-5D8D-4900-A41F-9B317DCD1F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6F596E-5D8D-4900-A41F-9B317DCD1F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
